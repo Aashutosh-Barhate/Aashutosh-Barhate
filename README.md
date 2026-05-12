@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Aashutosh Barhate
 
-<!--
-**Aashutosh-Barhate/Aashutosh-Barhate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 Sophomore student in **Artificial Intelligence & Data Science**  
+🤖 Passionate about **AI, Machine Learning, Data Science, and emerging technologies**  
+💡 Interested in building innovative solutions and exploring real-world AI applications  
+📚 Currently learning and improving my skills in programming, AI models, and data analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- Python 🐍
+- C / C++
+- Machine Learning
+- Data Analysis
+- Git & GitHub
+- HTML, CSS, JavaScript
+
+---
+
+## 🌱 Currently Exploring
+- Deep Learning
+- Generative AI
+- Data Visualization
+- Open Source Contributions
+
+---
+
+## 📈 GitHub Stats
+![Aashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/aashutosh-barhate-40607a32b
+- Email: your-email@example.com
+
+---
+
+⭐ *“Exploring AI to create impactful and intelligent solutions.”*
