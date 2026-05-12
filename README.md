@@ -37,8 +37,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/aashutosh-barhate-40607a32b
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/aashutosh-barhate-a34906333
+- Email: aashutoshbarhate@gmail.com
 
 ---
 
