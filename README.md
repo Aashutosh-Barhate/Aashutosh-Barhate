@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Aashutosh Barhate
 
 ## 🚀 About Me
-🎓 Sophomore student in **Artificial Intelligence & Data Science**  
+🎓 Pre-final year student in **Artificial Intelligence & Data Science**  
 🤖 Passionate about **AI, Machine Learning, Data Science, and emerging technologies**  
 💡 Interested in building innovative solutions and exploring real-world AI applications  
 📚 Currently learning and improving my skills in programming, AI models, and data analytics  
